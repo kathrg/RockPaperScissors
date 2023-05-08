@@ -2,11 +2,10 @@
 ## Description
 Program stimulates a game of rock-paper-scissors for two users to play.
 
-Note: All function RMEs were provided for me.
-
 ## Functions and Files Implemented
 * Functions: getName(), getMenuChoice(), isMoveGood(), getMove(), isRoundWinner(), announceRoundWinner(), doRound(), announceWinner(), doGame(), and rps().
 * File: test.cpp.
+* _Note: All other files, functions, and RMEs were provided for me by the University of Michigan EECS 183._
 
 ## Language Used
 * C++
