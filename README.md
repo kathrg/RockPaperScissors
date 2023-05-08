@@ -4,7 +4,7 @@ Program stimulates a game of rock-paper-scissors for two users to play.
 
 Note: All function RMEs were provided for me.
 
-## Functions implemented
+## Functions and Files Implemented
 I implemented the following functions on my own: getName(), getMenuChoice(), isMoveGood(), getMove(), isRoundWinner(), announceRoundWinner(), doRound(), announceWinner(), doGame(), rps(), and test().
 
 ## Language Used
